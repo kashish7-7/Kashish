@@ -14,13 +14,14 @@
 A RAG-based chatbot that uses semantic chunking and document-specific chunking.  
 **Tech:** FastAPI, Supabase pgvector, Groq LLMs  
 👉 [View Project]([(https://github.com/kashish7-7/doc_chatbot.git)])
+https://github.com/kashish7-7/doc_chatbot.git
 
 ---
 
 ### ⚡ FastAPI with API Key Authentication  
 Secure backend application with API key auth and modular FastAPI design.  
 👉 [GitHub Repo]([(https://github.com/kashish7-7/fastapi_api_key_project.git)])
-
+https://github.com/kashish7-7/fastapi_api_key_project.git
 ---
 
 
