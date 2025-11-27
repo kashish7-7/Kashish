@@ -23,8 +23,9 @@ Secure backend application with API key auth and modular FastAPI design.
 👉 [GitHub Repo]([(https://github.com/kashish7-7/fastapi_api_key_project.git)])
 https://github.com/kashish7-7/fastapi_api_key_project.git
 ---
-
-
+### ⚡ Weather API Function Calling
+Secure backend application with API key auth and modular FastAPI design.  
+👉 https://github.com/kashish7-7/Weather_functioncalling.git
 
 ## 🛠 Tech Stack
 
