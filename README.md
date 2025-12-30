@@ -18,7 +18,7 @@ I like solving problems where **logic, structure, and scalability** matter more 
 - Sends real-time job alerts
 
  **GitHub Repo:**  
-👉 https://github.com/kashish7-7/fastapi-n8n-job-alert-automation
+👉[ https://github.com/kashish7-7/fastapi-n8n-job-alert-automation](https://github.com/kashish7-7/fastapi-n8n-job-alert-automation-.git)
 
 ---
 
@@ -26,7 +26,7 @@ I like solving problems where **logic, structure, and scalability** matter more 
 Secure backend application demonstrating **API key authentication**, **modular FastAPI design**, and clean endpoint architecture.
 
  **GitHub Repo:**  
-👉 https://github.com/kashish7-7/Weather_functioncalling.git
+👉 [https://github.com/kashish7-7/Weather_functioncalling.git](https://github.com/kashish7-7/Weather_functioncalling.git)
 
 ---
 
