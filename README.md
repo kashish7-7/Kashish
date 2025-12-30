@@ -1,51 +1,76 @@
-# Kashish
-# Hi, I'm Kashish 👋  
-### AI/ML | RAG | FastAPI | LangChain 
+# 👋 Hi, I'm Kashish  
 
-🚀 Passionate about building intelligent systems, chatbots, RAG pipelines and full-stack AI applications.  
-📚 Currently exploring **vector databases, chunking strategies, LLM apps & FastAPI**  
-🌱 Open to collaborations on **AI, IoT, cloud, and backend development**
+I'm a **Computer Science student & automation-focused developer** who enjoys building **real-world systems** using backend engineering, data, and workflow automation.  
+I like solving problems where **logic, structure, and scalability** matter more than buzzwords.
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🧠 Semantic Chunking Document Chatbot  
-A RAG-based chatbot that uses semantic chunking and document-specific chunking.  
-**Tech:** FastAPI, Supabase pgvector, Groq LLMs  
-👉 [View Project]([(https://github.com/kashish7-7/doc_chatbot.git)])
-https://github.com/kashish7-7/doc_chatbot.git
+###  FastAPI + n8n Job Alert Automation
+**Resume-aware job matching system** that automatically parses resumes, scans live job listings, and sends alerts for relevant opportunities.
+
+**What it does:**
+- Parses resume using **FastAPI**
+- Stores latest resume via **n8n Webhook**
+- Periodically scans job feeds
+- Matches jobs based on skills, experience, and education
+- Sends real-time job alerts
+
+ **GitHub Repo:**  
+👉 https://github.com/kashish7-7/fastapi-n8n-job-alert-automation
 
 ---
 
-### ⚡ FastAPI with API Key Authentication  
-Secure backend application with API key auth and modular FastAPI design.  
-👉 [GitHub Repo]([(https://github.com/kashish7-7/fastapi_api_key_project.git)])
-https://github.com/kashish7-7/fastapi_api_key_project.git
----
-### ⚡ Weather API Function Calling
-Secure backend application with API key auth and modular FastAPI design.  
+###  Weather API – Function Calling
+Secure backend application demonstrating **API key authentication**, **modular FastAPI design**, and clean endpoint architecture.
+
+ **GitHub Repo:**  
 👉 https://github.com/kashish7-7/Weather_functioncalling.git
 
-## 🛠 Tech Stack
-
-**Languages:**  
-Python | Java | SQL | R | C/C++ | JavaScript | PHP | HTML&CSS
-
-**AI / ML:**  
-Groq | HuggingFace | Sentence Transformers | Scikit-learn  | XGBoost  |  LangChain | Chunking
-
-**Backend:**  
-FastAPI | Flask | Supabase | PostgreSQL | pgvector  
-
-**Cloud & Tools:**  
-AWS | Docker | GitHub Actions | VS Code  | DevOps basics | API Integration | Siemens Insights Hub
-
-**Data Science:**
-Feature Engineering| EDA | Model Validation | Performance Tuning
 ---
 
-## 📬 Connect with me  
-🌐 Portfolio: (coming soon)  
-📧 Email: kashishkumari485@gmail.com 
-💼 LinkedIn: www.linkedin.com/in/kashish73
+##  Tech Stack
+
+###  Languages
+Python | Java | SQL | R | C / C++ | JavaScript | PHP | HTML & CSS
+
+---
+
+###  AI / ML
+Groq | HuggingFace | Sentence Transformers | Scikit-learn | XGBoost | LangChain  
+Embeddings | Chunking | Semantic Search | Rag
+
+---
+
+###  Backend & Databases
+FastAPI | Flask | Supabase | PostgreSQL | pgvector  
+REST APIs | Authentication 
+
+---
+
+###  Cloud & Tools
+AWS | Docker | GitHub Actions | VS Code  
+DevOps Basics | API Integration | Siemens Insights Hub
+
+---
+
+###  Data Science
+Feature Engineering | EDA | Model Validation | Performance Tuning
+
+---
+
+##  What I'm Currently Exploring
+- Automation-first system design
+- Backend scalability
+- Workflow orchestration with n8n
+---
+
+## 📬 Connect With Me
+📧 **Email:** kashishkumari485@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/kashish73  
+🌐 **Portfolio:** *(Coming soon)*
+
+---
+
+✨ *I enjoy building systems that reduce manual work and turn data into action.*
