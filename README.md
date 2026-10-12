@@ -77,7 +77,7 @@ Feature Engineering | EDA | Model Validation | Performance Tuning
 ## 📬 Connect With Me
 📧 **Email:** kashishkumari485@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/kashish73  
-🌐 **Portfolio:** (https://github.com/kashish7-7/PORTFOLIO.git)
+🌐 **Portfolio:** https://github.com/kashish7-7/PORTFOLIO.git
 
 ---
 
