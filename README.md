@@ -7,6 +7,14 @@ I like solving problems where **logic, structure, and scalability** matter more 
 
 ##  Featured Projects
 
+###  Mella AI — Autonomous Computer-Use Agent
+
+Mella is a personal AI agent designed to interact with and control a computer using vision, reasoning, mouse and keyboard automation, and persistent memory. It aims to execute multi-step tasks across desktop applications, web browsers, and development environments by observing the screen, performing actions, verifying results, and adapting when errors occur. Built with a local-first approach, Mella aims to move beyond conversational AI toward autonomous task execution.
+
+ **GitHub Repo:**  
+👉 [https://github.com/kashish7-7/Weather_functioncalling.git]( https://github.com/kashish7-7/Mella-.git)
+
+---
 ###  FastAPI + n8n Job Alert Automation
 **Resume-aware job matching system** that automatically parses resumes, scans live job listings, and sends alerts for relevant opportunities.
 
@@ -27,14 +35,6 @@ Secure backend application demonstrating **API key authentication**, **modular F
 
  **GitHub Repo:**  
 👉 [https://github.com/kashish7-7/Weather_functioncalling.git](https://github.com/kashish7-7/Weather_functioncalling.git)
-
-###  Mella AI — Autonomous Computer-Use Agent
-
-Mella is a personal AI agent designed to interact with and control a computer using vision, reasoning, mouse and keyboard automation, and persistent memory. It aims to execute multi-step tasks across desktop applications, web browsers, and development environments by observing the screen, performing actions, verifying results, and adapting when errors occur. Built with a local-first approach, Mella aims to move beyond conversational AI toward autonomous task execution.
-
- **GitHub Repo:**  
-👉 [https://github.com/kashish7-7/Weather_functioncalling.git]( https://github.com/kashish7-7/Mella-.git)
-
 
 ---
 
