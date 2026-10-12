@@ -28,6 +28,14 @@ Secure backend application demonstrating **API key authentication**, **modular F
  **GitHub Repo:**  
 👉 [https://github.com/kashish7-7/Weather_functioncalling.git](https://github.com/kashish7-7/Weather_functioncalling.git)
 
+###  Mella AI — Autonomous Computer-Use Agent
+
+Mella is a personal AI agent designed to interact with and control a computer using vision, reasoning, mouse and keyboard automation, and persistent memory. It aims to execute multi-step tasks across desktop applications, web browsers, and development environments by observing the screen, performing actions, verifying results, and adapting when errors occur. Built with a local-first approach, Mella aims to move beyond conversational AI toward autonomous task execution.
+
+ **GitHub Repo:**  
+👉 [https://github.com/kashish7-7/Weather_functioncalling.git]( https://github.com/kashish7-7/Mella-.git)
+
+
 ---
 
 ##  Tech Stack
@@ -69,7 +77,7 @@ Feature Engineering | EDA | Model Validation | Performance Tuning
 ## 📬 Connect With Me
 📧 **Email:** kashishkumari485@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/kashish73  
-🌐 **Portfolio:** *(Coming soon)*
+🌐 **Portfolio:** (https://github.com/kashish7-7/PORTFOLIO.git)
 
 ---
 
